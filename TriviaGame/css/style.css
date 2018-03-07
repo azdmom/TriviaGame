@@ -1,0 +1,27 @@
+header{
+    font-family: 'Playfair Display', serif;
+    font-size: 70px;
+    font-weight: bolder;
+    text-align: center;
+    line-height: 100px;
+    color: 	white;
+    margin-bottom: 20px;
+    background-color: rgba(224, 224, 241, 0.386);
+}
+body{
+    text-align: center;
+    background: url("../images/clouds.jpg");
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+}
+
+footer{
+    color: 	white;
+    background-color: rgba(224, 224, 241, 0.386);
+    font-size: 14px;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    text-align: center
+    
+}
